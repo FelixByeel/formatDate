@@ -1,2 +1,3 @@
 # formatDate
-javascript自用日期格式化。
+javascript-日期格式化。 
+
